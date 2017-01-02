@@ -21,7 +21,7 @@
 
 3. 평가[편집]
 
-http://www.kstarnews.com/web/data/board/news/file_in_body/5/ec9790ed8ea0ed8391.jpg
+<img src=“http://www.kstarnews.com/web/data/board/news/file_in_body/5/ec9790ed8ea0ed8391.jpg”/>
 
 에펠탑의 야경.
 
@@ -44,7 +44,7 @@ http://www.kstarnews.com/web/data/board/news/file_in_body/5/ec9790ed8ea0ed8391.j
 사실 만들 때 20년짜리 건물로 만들었기 때문인지, 멀리서 보면 멋진데 내부에 들어가면 확실히 관광용 랜드마크 건축물이라기에는 편의성이 너무 부족해서 가건물스러운(…) 느낌이 든다. 아무리 봐도 안전 설비가 엄청 부족해 보이고, 높은 층까지 올라가면 그 아슬아슬함이 매력으로 느껴질 정도.
 
 
-http://2phuzf2k922v3tj8nl1kld9lx.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/scientists-names.jpg
+<img src=“http://2phuzf2k922v3tj8nl1kld9lx.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/scientists-names.jpg”/>
 
 잘 알려져 있지 않지만, 에펠탑을 실제로 가까이에서 보면 1층 전망대 아래 부분(아치 위)에 탑의 4면을 따라 프랑스의 유명한 과학자, 공학자 및 수학자들의 이름이 새겨져 있다. 각 면에 18명씩 총 72명이 새겨져 있으며, 이공계 학생들이라면 수업중 한번씩 들어봤을 만한 유명한 학자들의 이름이 황금색으로 빛나고 있어 프랑스 국력의 위엄을 새삼스레 느낄 수 있다. [7]
 
