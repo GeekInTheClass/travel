@@ -21,7 +21,7 @@
 
 3. 평가[편집]
 
-<img src=“http://www.kstarnews.com/web/data/board/news/file_in_body/5/ec9790ed8ea0ed8391.jpg”/>
+![Alt text](http://www.kstarnews.com/web/data/board/news/file_in_body/5/ec9790ed8ea0ed8391.jpg “night view of Eiffel tower”)
 
 에펠탑의 야경.
 
